@@ -15,6 +15,7 @@ I'm using this space to learn Java, Spring Boot, PostgreSQL, and build real-worl
 - Create portfolio-ready projects  
 
 ## Structure
+```
 backend-training/
 │
 ├── phase-0/        # Spring Boot fundamentals + micro projects
@@ -22,6 +23,7 @@ backend-training/
 ├── phase-2/        # Personal Finance or Job Tracker
 ├── phase-3/        # React frontend integration
 └── phase-4/        # Job prep + polishing
+```
 
 
 ## Weekly Progress
